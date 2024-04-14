@@ -1,2 +1,0 @@
-*** Elementor Market Platform App ***
-
