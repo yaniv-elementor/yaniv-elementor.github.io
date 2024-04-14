@@ -1,0 +1,29 @@
+export enum ClickUserEventsEnum {
+	Overview_Clicked = 'overview-clicked', // done
+	Lists_Clicked = 'lists-clicked', // done
+    Contacts_Clicked = 'contacts-clicked', // done
+    Campaigns_Clicked = 'campaigns-clicked', // done
+    Forms_Clicked = 'forms-clicked', // done
+    Add_Form_Clicked = 'add-form-clicked', // done
+    View_Form_Clicked = 'view-form-clicked', // done
+    Chats_Clicked = 'chats-clicked', // done
+    Add_Chat_Clicked = 'add-chat-clicked', // done
+    View_Chat_Clicked = 'view-chat-clicked', // done
+    Library_Clicked = 'library-clicked', // done
+    Settings_Clicked = 'settings-clicked', // done
+    Brand_Clicked = 'brand-clicked', // done
+    Forms_Integrations_Clicked = 'forms-integrations-clicked', // done
+    Billing_Clicked = 'billing-clicked', // done
+    Get_Started_Clicked = 'get-started-clicked', // done
+    Setup_Form_Clicked = 'setup-form-clicked', // done
+    Setup_Chat_Clicked = 'setup-chat-clicked', // done
+    Import_Contacts_From_File_Clicked = 'import-contacts-from-file-clicked', // done
+    Add_New_Contacts_Clicked = 'add-new-contacts-clicked', // done
+    Send_Now_Clicked = 'send-now-clicked',
+    List_Setting_Clicked = 'list-setting-clicked',
+    Create_Campaign_From_Template_Clicked = 'create-campaign-from-template-clicked', // done
+    Create_Campaign_From_Scratch_Clicked = 'create-campaign-from-scratch-clicked', // done
+    Full_Screen_Clicked = 'full-screen-clicked', // done
+    Notification_Center_Clicked = 'notification-center-clicked', // done
+    Help_Center_Clicked = 'help-center-clicked' // done
+}
